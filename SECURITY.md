@@ -11,7 +11,7 @@
 If you discover a security vulnerability, please follow these steps:
 
 1. **Do NOT create a public GitHub issue** for security vulnerabilities
-2. Email the maintainer directly at: mtp354@gmail.com
+2. Email the maintainer directly at: matthewprestnz@gmail.com
 3. Include the following information:
    - Description of the vulnerability
    - Steps to reproduce the issue
